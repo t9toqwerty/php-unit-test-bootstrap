@@ -1,0 +1,22 @@
+{
+    "name": "t9toqwerty/learning-unit-test",
+    "description": "Learning Unit Test",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul K Jha",
+            "email": "jharahulkumar12@gmail.com"
+        }
+    ]
+}
